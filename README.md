@@ -12,14 +12,14 @@ embedded systems, and full-stack software.**
 
 | Project | Focus |
 |---|---|
-| **[Meticule](https://github.com/yousufshikder17/Meticule)** | Durable AI-agent runtime with PostgreSQL-backed execution, workers, approvals, recovery, retrieval, and multi-agent orchestration |
-| **[Perimeter](https://github.com/yousufshikder17/Perimeter)** | Application-aware security testing for authorization, multi-tenant isolation, APIs, and reproducible findings |
-| **[Lyrynx](https://github.com/yousufshikder17/Lyrynx)** | Local-first developer workflow automation with durable execution, approvals, and GitHub Actions generation |
-| **[Latasim](https://github.com/yousufshikder17/Latasim)** | Virtual embedded-systems workbench for LPC1768/MCB1700 firmware with peripheral simulation and a Qt interface |
-| **[Ledger](https://github.com/yousufshikder17/Ledger)** | Quantitative research workbench with point-in-time data, walk-forward simulation, attribution, and research-validity tooling |
-| **[Stratum](https://github.com/yousufshikder17/Stratum)** | Bitemporal market-data and signal infrastructure with leakage prevention and reproducible research |
-| **[Castastro](https://github.com/yousufshikder17/Castastro)** | Cloud validation platform with reliable execution, containerized validation, observability, and infrastructure as code |
-| **[Aurexis](https://github.com/yousufshikder17/Aurexis)** | Multi-asset investment platform spanning portfolio management, research, provider ingestion, and APIs |
+| **[Meticule](https://github.com/yousufshikder17/Meticule)** | Durable AI-agent runtime with persisted execution state, worker leasing, approvals, recovery, retrieval, and multi-agent orchestration |
+| **[Perimeter](https://github.com/yousufshikder17/Perimeter)** | Application-aware security testing focused on authorization, tenant isolation, API security, and reproducible findings |
+| **[Lyrynx](https://github.com/yousufshikder17/Lyrynx)** | Local-first workflow automation with durable execution, human approval, validation, and GitHub Actions generation |
+| **[Latasim](https://github.com/yousufshikder17/Latasim)** | Virtual embedded-systems workbench for LPC1768/MCB1700 firmware with peripheral simulation, deterministic timing, and Qt UI |
+| **[Ledger](https://github.com/yousufshikder17/Ledger)** | Quantitative research workbench for point-in-time data, walk-forward simulation, attribution, and research validity |
+| **[Stratum](https://github.com/yousufshikder17/Stratum)** | Bitemporal market-data and signal infrastructure with leakage prevention and reproducible research workflows |
+| **[Castastro](https://github.com/yousufshikder17/Castastro)** | Cloud validation platform with reliable dispatch, containerized execution, observability, and infrastructure as code |
+| **[Aurexis](https://github.com/yousufshikder17/Aurexis)** | Multi-asset investment platform spanning portfolio management, research, provider ingestion, and API-driven workflows |
 | **[Aperture](https://github.com/yousufshikder17/Aperture)** | Career and job-search platform with application tracking, resume workflows, analytics, and background processing |
 | **[mvie](https://github.com/yousufshikder17/mvie)** | Full-stack personal film ledger built with React, Node.js, PostgreSQL, and TMDB |
 
@@ -28,13 +28,13 @@ embedded systems, and full-stack software.**
 ## 🧰 Technical Skills
 
 **Languages**  
-C++, TypeScript, Python, C, Java, C#, SQL
+C++ • TypeScript • Python • C • Java • C# • SQL
 
 **Frameworks & Libraries**  
-React, Next.js, Angular, Express, Hono, ASP.NET Core, Qt, JavaFX
+React • Next.js • Angular • Express • Hono • ASP.NET Core • Qt • JavaFX
 
 **Databases**  
-PostgreSQL, MySQL, SQLite, DuckDB
+PostgreSQL • MySQL • SQLite • DuckDB
 
 **APIs**  
-REST, GraphQL
+REST • GraphQL
